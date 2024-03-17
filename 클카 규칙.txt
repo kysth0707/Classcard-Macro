@@ -1,0 +1,90 @@
+set_idx: 세트 인덱스
+arr_key[]: n => 0
+arr_key[]: o => 1
+arr_key[]: f => 2
+arr_key[]: z => 3
+arr_key[]: t => 4
+arr_key[]: b => 5
+arr_key[]: k => 6
+arr_key[]: u => 7
+arr_key[]: e => 8
+arr_key[]: d => 9
+arr_key[]: r => 모름
+arr_key[]: j => 모름
+arr_key[]: h => 모름
+arr_key[]: p => 모름
+arr_key[]: v => 모름
+arr_key[]: g => 모름
+arr_key[]: a => 모름
+arr_key[]: m => 모름
+arr_key[]: q => 모름
+arr_key[]: y => 모름
+arr_key[]: l => 모름
+arr_key[]: w => 모름
+arr_key[]: c => 모름
+arr_key[]: i => 모름
+arr_key[]: x => 모름
+arr_key[]: s => 모름
+arr_score[0][t]: ouonbotfkk.dtb => 1710514266.945 시간임 단위 : 초
+arr_score[0][s]: bn => 50
+arr_score[0][m]: n => 0 맞히면 1 틀리면 0
+arr_score[1][t]: ouonbotfuk.deo = > 1710514276.981 시간임 단위 : 초
+arr_score[1][s]: bn => 50
+arr_score[1][m]: n => 0 맞히면 1 틀리면 0
+
+
+activity: 매칭 게임 코드
+tid: 유저 분별 데이터 인듯 근데 잘 모르겠음 ㅇㅇ; 이것만 알면 될 듯	
+일단 글자 수 봐서는 SHA 256 씀
+
+헐 그냥 console 에 tid 치면 값 나옴 이걸로 하면 될 듯 ㅇㅇㅇ;
+
+class_idx: 클래스 인덱스
+
+
+b59d28b5d4407e764ba19dc052726e67d60d0419
+https://www.classcard.net/Match/save?set_idx=12718409&arr_key[]=l&arr_key[]=l&arr_key[]=o&arr_key[]=n&arr_key[]=v&arr_key[]=j&arr_key[]=s&arr_key[]=u&arr_key[]=y&arr_key[]=a&arr_key[]=i&arr_key[]=d&arr_key[]=p&arr_key[]=g&arr_key[]=k&arr_key[]=t&arr_key[]=e&arr_key[]=z&arr_key[]=q&arr_key[]=m&arr_key[]=h&arr_key[]=r&arr_key[]=c&arr_key[]=x&arr_key[]=f&arr_key[]=w&arr_key[]=b&arr_score[0][t]=oyolsojyuu.vvy&arr_score[0][s]=oll&arr_score[0][m]=o&arr_score[1][t]=oyolsojaja.lsj&arr_score[1][s]=l&arr_score[1][m]=o&activity=4&tid=aaa9a4ab07bac0cea3deb2ea39347bef82e8eaaa8b0994ba6d566ab25947f9ba&class_idx=956015
+
+
+
+
+
+
+set_idx: 12718409
+arr_key[]: v
+arr_key[]: k
+arr_key[]: y
+arr_key[]: n
+arr_key[]: u
+arr_key[]: r
+arr_key[]: f
+arr_key[]: x
+arr_key[]: e
+arr_key[]: j
+arr_key[]: q
+arr_key[]: a
+arr_key[]: w
+arr_key[]: h
+arr_key[]: t
+arr_key[]: o
+arr_key[]: m
+arr_key[]: c
+arr_key[]: g
+arr_key[]: b
+arr_key[]: s
+arr_key[]: i
+arr_key[]: z
+arr_key[]: d
+arr_key[]: l
+arr_key[]: p
+arr_score[0][t]: kxkvrefefy.ejr
+arr_score[0][s]: v
+arr_score[0][m]: k
+arr_score[1][t]: kxkvrefjff.xx
+arr_score[1][s]: v
+arr_score[1][m]: k
+activity: 4
+tid: 34e405d6af3dc08288e32450b6ad12a4a9b18e8b5d14f376c3080d39c599affa
+class_idx: 956015
+
+vkynurfxejqawhtomcgbsizdlp
