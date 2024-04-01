@@ -1,0 +1,10 @@
+var output = "";
+$('#tab_set_section .flip-card-front .btn-favor i.cc2.star').closest('.flip-card').each(function() {
+    var item = $(this).clone();
+    var txt = item[0]["outerText"].replaceAll(' ','').replaceAll('\n','');
+    txt = txt.substr(0,txt.length/2);
+
+    
+    output = output + txt + "\n";
+});
+console.log(output);
